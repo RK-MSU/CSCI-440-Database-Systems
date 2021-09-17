@@ -1,4 +1,9 @@
 .DS_Store
+
+# VS Code
+440-Database-Systems.code-workspace
+
+# Git Worktree Dirs
 /440-Master/
 /440-MSU/
 /440-Old-Master/
