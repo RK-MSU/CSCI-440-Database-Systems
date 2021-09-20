@@ -8,3 +8,4 @@
 | 09/10 | [Database Normalization](Database-Normalization.md) | <https://youtu.be/1IBjQ3LgfOQ> |
 | 09/13 | [SQL: Select](SQL-Select.md) | <https://youtu.be/xssuyPtC3kI> |
 | 09/15 | [SQL: Sub Queries](SQL-Sub-Queries.md) | <https://youtu.be/uji7e2qaW5s> |
+| 09/20 | [Aggregation](Aggregation.md) | <https://youtu.be/JkekOq1S9pM> |
